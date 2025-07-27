@@ -1,0 +1,9 @@
+/home/code/minic-1.0.0-src/build/CMakeFiles/minic.dir
+/home/code/minic-1.0.0-src/build/CMakeFiles/package.dir
+/home/code/minic-1.0.0-src/build/CMakeFiles/package_source.dir
+/home/code/minic-1.0.0-src/build/CMakeFiles/edit_cache.dir
+/home/code/minic-1.0.0-src/build/CMakeFiles/rebuild_cache.dir
+/home/code/minic-1.0.0-src/build/CMakeFiles/list_install_components.dir
+/home/code/minic-1.0.0-src/build/CMakeFiles/install.dir
+/home/code/minic-1.0.0-src/build/CMakeFiles/install/local.dir
+/home/code/minic-1.0.0-src/build/CMakeFiles/install/strip.dir

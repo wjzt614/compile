@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/code/minic-1.0.0-src/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
